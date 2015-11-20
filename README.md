@@ -2,7 +2,7 @@
 
 We're currently under construction! 
 
-> BykMe is looking to create a seamless peer to peer bicyle sharing network by cyclists for cyclists! 
+> BykMe is looking to create a seamless peer to peer bicyle sharing network by cyclists, for cyclists! 
 
 
 --- 
